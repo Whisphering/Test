@@ -11,7 +11,7 @@ int main()
 	// What if I change the contents in both the places.
 	printf("What!\n");
 	printf("Hello.txt");
-	printf("Just the way you wanted!\n");
+	printf("Just the way you wanted!\n"); // Added this here in local
 }
 void add(int,int)
 {
