@@ -10,4 +10,3 @@ Line added towhat happens if you change the contents of the same file with diffe
 Line added and one word "see" removed from the previous line without pushing after resolving conflicts.(You first have to pull when you change in both the places, resolve conflicts if any and can push).
 Line added and one word "see" removed from the previous line without pushing after resolving conflicts.(You first have to pull when you change in both the places, resolve conflicts if any and can push). *We had a conflict and had to resolve it.
 Just change in the remote.
-WjaWi
