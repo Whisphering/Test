@@ -1,5 +1,5 @@
 This line was added after removing a line of this file. The line was removed by staying in the local branch.
 Line added to see what happens if you just change the file in the local repo and then try to pull from the remote repo without changing the contents of this file in the remote repo(so that we don't have conflicts).
 Line added to see what happens if you change the contents of the file in both remote and local and then try to push.
-Line added to see what happens if you change the contents of the same file with different things in remote and local and then trying to push. Previously when pull was done with the same thing there were conflicts and you have to resolve them and then push after the conflicts were solved.(Line in the remote).                                        
-Line added without pushing after resolving conflicts.(You first have to pull when you change in both the places, resolve conflicts if any and can push).
+Line added towhat happens if you change the contents of the same file with different things in remote and local and then trying to push. Previously when pull was done with the same thing there were conflicts and you have to resolve them and then push after the conflicts were solved.(Line in the remote).                                        
+Line added and one word "see" removed from the previous line without pushing after resolving conflicts.(You first have to pull when you change in both the places, resolve conflicts if any and can push).
