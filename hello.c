@@ -11,9 +11,10 @@ int main()
 	// What if I change the contents in both the places.
 	printf("What!\n");
 	printf("Hello.txt");
-	printf("Just the way you wanted!\n");
+	printf("Just the way you wanted!Added here here.\n");
 }
 void add(int,int)
 {
+	// Commented.
 	printf("What is this? Is this a user defined function?\n");
 }
