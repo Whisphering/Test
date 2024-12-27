@@ -15,5 +15,6 @@ int main()
 }
 void add(int,int)
 {
+	printf("This line was added.\n");
 	printf("What is this? Is this a user defined function?\n");
 }
