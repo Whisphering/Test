@@ -7,4 +7,5 @@ int main()
 	printf("Hello, buddy I was added only in the origin.");
 	printf("What!\n");
 	printf("Hello.txt");
+	printf("Just the way you wanted!\n");
 }
