@@ -1,1 +1,1 @@
-These were the contents added to the file "hello.txt" when I unstaged this file in the local repo.
+This line was added after removing a line of this file. The line was removed by staying in the local branch.
