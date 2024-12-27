@@ -2,6 +2,5 @@
 int main()
 {
 	printf("Hello, World\n");
-	printf("This line was added!\n");
-	printf("This line was added again!\n");
+	printf("This line was added staying in the origin.\n");
 }
