@@ -1,5 +1,6 @@
 #include<stdio.h>
 void add(int,int);
+int sum(int, float);
 int main()
 {
 	printf("Hello, World\n");
