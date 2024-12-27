@@ -16,5 +16,6 @@ int main()
 }
 void add(int,int)
 {
+	//Commented.
 	printf("What is this? Is this a user defined function?\n");
 }
