@@ -1,0 +1,1 @@
+These were the contents added to the file "hello.txt" when I unstaged this file in the local repo.
