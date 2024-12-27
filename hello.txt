@@ -1,3 +1,4 @@
 This line was added after removing a line of this file. The line was removed by staying in the local branch.
 Line added to see what happens if you just change the file in the local repo and then try to pull from the remote repo without changing the contents of this file in the remote repo(so that we don't have conflicts).
-Line added to see what happens if you change the contents of the file in both remote and local and then try to push.
+Line added to see what happens if you change the contents of the file in both remote and local and then try to push with the same contents added to both the files.
+Line added to see what happens if you change the contents of the same file with different things in remote and local and then trying to push. Previously when pull was done with the same thing there were conflicts and you have to resolve them and then push after the conflicts were solved.
